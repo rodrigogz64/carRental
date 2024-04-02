@@ -1,0 +1,45 @@
+.top_nav {
+  position: fixed;
+  top: 0;
+  left: 260px;
+  z-index: 999;
+  background: var(--primary-color);
+  width: calc(100% - 260px);
+  height: 70px;
+  line-height: 70px;
+  transition: background-color 0.3s ease;
+}
+
+.top_nav-wrapper {
+  display: flex;
+  padding: 0px;
+}
+
+.top_nav-right {
+  display: flex;
+  align-items: flex-end; 
+  column-gap: 2rem;
+  justify-content: flex-end;
+  margin-left: auto; 
+}
+
+.profile img {
+  margin-bottom: 16px;
+  margin-right: 10px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  object-fit: cover;
+}
+
+.theme {
+  position: relative;
+}
+
+.theme i {
+  font-size: 25px;
+  color: white;
+}

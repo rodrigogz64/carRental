@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Sat",
+    "kmStats": 5287  
+  },
+  {
+    "name": "Sun",
+    "kmStats": 3452  
+  },
+  {
+    "name": "Mon",
+    "kmStats": 3214  
+  },
+  {
+    "name": "Tue",
+    "kmStats": 4329  
+  },
+  {
+    "name": "Wed",
+    "kmStats": 2984  
+  },
+  {
+    "name": "Thu",
+    "kmStats": 4782  
+  },
+  {
+    "name": "Fri",
+    "kmStats": 2834  
+  }
+]

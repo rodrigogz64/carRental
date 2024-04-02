@@ -1,0 +1,56 @@
+[
+  {
+    "category":"Toyota",
+    "clientName": "Abril Castillo",
+    "averagePrice": 16605,
+    "marketAveragePrice": 16244,
+    "impressionShare": 55,
+    "modelSpend": 1176,
+    "spendPerUnitTurned": 811
+  },
+  {
+    "category":"Toyota",
+    "clientName": "Omar Pérez",
+    "averagePrice": 11605,
+    "marketAveragePrice": 11236,
+    "impressionShare": 45,
+    "modelSpend": 1179,
+    "spendPerUnitTurned": 810
+  },
+  {
+    "category":"Nissan",
+    "clientName": "Camila Díaz",
+    "averagePrice": 13245,
+    "marketAveragePrice": 12894,
+    "impressionShare": 67,
+    "modelSpend": 1523,
+    "spendPerUnitTurned": 911
+  },
+  {
+    "category":"Nissan",
+    "clientName": "Mateo García",
+    "averagePrice": 14890,
+    "marketAveragePrice": 14523,
+    "impressionShare": 72,
+    "modelSpend": 1874,
+    "spendPerUnitTurned": 1052
+  },
+  {
+    "category":"Kia",
+    "clientName": "Sofía López", 
+    "averagePrice": 12000,        
+    "marketAveragePrice": 11543,  
+    "impressionShare": 80,        
+    "modelSpend": 1324,         
+    "spendPerUnitTurned": 789   
+  },
+  {
+    "category":"Kia",
+    "clientName": "Alejandro Martínez", 
+    "averagePrice": 17500,        
+    "marketAveragePrice": 17234,  
+    "impressionShare": 90,        
+    "modelSpend": 2174,         
+    "spendPerUnitTurned": 1234 
+  }
+]

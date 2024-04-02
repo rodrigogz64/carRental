@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Sat",
+    "week": 4234,
+    "prevWeek": 2310
+  },
+  {
+    "name": "Sun",
+    "week": 2581,
+    "prevWeek": 3423
+  },
+  {
+    "name": "Mon",
+    "week": 2793,
+    "prevWeek": 2381
+  },
+  {
+    "name": "Tue",
+    "week": 3412,
+    "prevWeek": 1812
+  },
+  {
+    "name": "Wed",
+    "week": 1931,
+    "prevWeek": 4729
+  },
+  {
+    "name": "Thu",
+    "week": 3829,
+    "prevWeek": 2938
+  },
+  {
+    "name": "Fri",
+    "week": 2123,
+    "prevWeek": 2193
+  }
+]

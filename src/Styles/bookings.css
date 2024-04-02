@@ -1,0 +1,19 @@
+.bookings {
+  margin-top: 100px;
+  padding: 0px 30px;
+  padding-bottom: 50px;
+}
+
+.light-mode .bookings_wrapper>div{
+  padding: 20px;
+  border-radius: 5px;
+  color: black;
+  background-color: white;
+}
+
+.dark-mode .bookings_wrapper>div{
+  padding: 20px;
+  border-radius: 5px;
+  background: var(--primary-color);
+}
+

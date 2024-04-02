@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "carName": "F150 Raptor 4X4",
+    "rentPrice": 138,
+    "retweet": "500",
+    "imgUrl": "/images/car-10.png",
+    "percentage": "90"
+  },
+  {
+    "id": "02",
+    "carName": "Tacoma 4x4",
+    "rentPrice": 122,
+    "retweet": "390",
+    "imgUrl": "/images/car-11.png",
+    "percentage": "84"
+  },
+  {
+    "id": "03",
+    "carName": "Santa Fe",
+    "rentPrice": 128,
+    "retweet": "230",
+    "imgUrl": "/images/car-09.png",
+    "percentage": "78"
+  }
+]

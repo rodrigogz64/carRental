@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Colors */
+  --primary-color: #181b3a;
+  --secondary-color: #01d293;
+  --light-bg: white;
+  --small-text-color: #808191;
+
+  /* Cards */
+  --card-01-bg: linear-gradient(#ef621c, #e1424e);
+  --card-02-bg: linear-gradient(#01d293, #56c57a);
+  --card-03-bg: #725cff;
+  --card-04-bg: #2884ff;
+
+  /* Recommend car backgrounds */
+  --recommend-car01-bg: #464417;
+  --recommend-car02-bg: #242728;
+  --recommend-car03-bg: #351519;
+
+  /* Themes */
+  --light-theme-body-bg: var(--light-bg);
+  --light-theme-heading-color: #fff;
+  --light-theme-small-text-color: #fff;
+  --dark-theme-body-bg: #0b0c28;
+  --dark-theme-heading-color: #ffffff;
+  --dark-theme-small-text-color: #fff;
+}
+
+body {
+  font-family: "DM Sans", sans-serif;
+  background: var(--body-bg);
+  color: var(--heading-color);
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+.main-layout {
+  margin-left: 260px;
+}
+
+img {
+  width: 100%;
+}
+
+/* Light mode */
+.light-mode {
+  --body-bg: var(--light-theme-body-bg);
+  --heading-color: var(--light-theme-heading-color);
+  --small-text-color: var(--light-theme-small-text-color);
+}
+
+/* Dark mode */
+.dark-mode {
+  --body-bg: var(--dark-theme-body-bg);
+  --heading-color: var(--dark-theme-heading-color);
+  --small-text-color: var(--dark-theme-small-text-color);
+}
